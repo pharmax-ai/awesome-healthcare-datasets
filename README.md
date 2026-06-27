@@ -290,6 +290,7 @@ A curated list of awesome healthcare datasets for machine learning, research, an
 7.  [Optum Clinformatics Data Mart](https://www.optum.com/business/life-sciences/real-world-data.html) - Commercial claims and EMR data. (Requires purchase, academic subscriptions available).
 8. [National Inpatient Sample (NIS)](https://www.hcup-us.ahrq.gov/nisoverview.jsp) - Largest all-payer inpatient care database in the US. (Available for purchase.)
 9. [National Ambulatory Medical Care Survey (NAMCS) and National Hospital Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm)- Provides data on ambulatory care visits.
+10. [OOPI - Open Out-of-Pocket Pricing Index](https://www.rxpricetracker.com/data) - Monthly cross-source US cash drug prices across CVS, GoodRx, Costco, Cost Plus Drugs, Amazon Pharmacy, SingleCare. 109 molecules. CC-BY-4.0. Mirrors: [HuggingFace](https://huggingface.co/datasets/pharmax-ai/oopi-pricing-index), [Zenodo DOI 10.5281/zenodo.20969232](https://zenodo.org/record/20969232), [Kaggle](https://www.kaggle.com/datasets/zackkmichael/oopi-us-cash-drug-prices).
 
 ## Biomedical Literature
 
